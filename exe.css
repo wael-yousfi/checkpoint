@@ -1,0 +1,68 @@
+#nav{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+
+}
+.light{
+
+}
+#nav a{
+    color: black;
+}
+.ho{
+    
+        margin-top: 50px;
+      
+}
+.image{
+    width: 800px;
+    height: 500px;
+}
+.aligner{
+    display: flex;
+    gap: 20px;
+}
+.aligner p{
+    font-size: 300%;
+}
+.hm{
+    margin-left: 45%;
+}
+#about{
+    margin-top: 8%;
+}
+
+#about h1{
+
+    margin-left: 45%;
+
+}
+.fo{
+    margin-top: 1%;
+}
+.vid{
+    margin-top: 7%;
+    display: flex;
+    margin-left: 30%;
+}
+
+#wael{
+margin-left: 45%;
+}
+.fo{
+margin-top: 3%;
+display: flex;
+gap: 150px;;
+
+
+
+}
+
+
+
+
+
+
+
